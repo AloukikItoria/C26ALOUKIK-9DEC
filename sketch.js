@@ -80,7 +80,7 @@ pig1.display();
 pig2.display();
 pig3.display();
 pig4.display();
-//bird1.display();
+bird1.display();
 log1.display();
 log2.display();
 }
